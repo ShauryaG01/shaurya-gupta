@@ -11911,7 +11911,7 @@ h5,
   letter-spacing: 3px;
   text-transform: uppercase;
   position: relative;
-  color: #000000;
+  color: #3e64ff;
 }
 
 .services-1 .desc h3:after {
@@ -11957,12 +11957,16 @@ h5,
 }
 
 .services-1:hover h3 {
-  color: #000000;
+  color: #fff;
 }
 
 .services-1:hover h3:after {
-  background: #000000;
+  background: #fff;
 }
+
+.services-1:hover .desc p {
+    color: #dee2e6;
+  }
 
 .progress-wrap {
   width: 100%;
@@ -13220,13 +13224,13 @@ textarea.form-control {
   width: 100px;
   height: 100px;
   position: absolute;
-  top: 100px;
-  left: 100px;
+  top: 35px;
+  left: 10px;
 }
 
 .testimonial .pic img {
-  width: 100%;
-  height: auto;
+  width: 250px;
+  height: 300px;
 }
 
 .testimonial .description {
