@@ -13400,10 +13400,10 @@ h6 {
 
 .new_footer_top .footer_bg {
     position: absolute;
-    bottom: 0;
+    /* bottom: 0; */
     background: url("http://droitthemes.com/html/saasland/img/seo/footer_bg.png") no-repeat scroll center 0;
     width: 100%;
-    height: 266px;
+    height: 200px;
 }
 
 .new_footer_top .footer_bg .footer_bg_one {
