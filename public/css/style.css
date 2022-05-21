@@ -2750,9 +2750,12 @@ fieldset:disabled a.btn {
 }
 
 .btn-primary:hover {
-    color: #fff;
-    background-color: #0069d9;
-    border-color: #0062cc;
+    /* color: #fff; */
+    /* background-color: #0069d9; */
+    /* border-color: #0062cc; */
+    color: #007bff;
+    background-color: #Fff;
+    border-color: #007bff;
 }
 
 .btn-primary:focus,
@@ -13070,10 +13073,43 @@ textarea.form-control {
     font-weight: 500;
 }
 
+.btn-custom {
+    color: white;
+    ;
+    background-color: #5370fe;
+    border-color: #5370fe;
+}
+
+.btn-custom:hover,
+.btn-custom:focus,
+.btn-custom:active,
+.btn-custom.active,
+.open>.dropdown-toggle.btn-custom {
+    color: #5370fe;
+    background-color: white;
+    border-color: #5370fe;
+}
+
+.btn-custom-2 {
+    color: white;
+    background-color: #5427d4;
+    border-color: #151c39;
+}
+
+.btn-custom-2:hover,
+.btn-custom-2:focus,
+.btn-custom-2:active,
+.btn-custom-2.active,
+.open>.dropdown-toggle.btn-custom-2 {
+    color: #5427d4;
+    background-color: white;
+    border-color: #5427d4;
+}
+
 .testimonial {
     border-left: 3px solid #007bff;
     padding: 100px 0 100px 275px;
-    position: relative;
+    position: relative
 }
 
 .testimonial:before,
@@ -13097,16 +13133,16 @@ textarea.form-control {
 }
 
 .testimonial .pic {
-    width: 100px;
-    height: 100px;
+    max-width: 150px;
+    max-height: 150px;
     position: absolute;
-    top: 35px;
-    left: 10px;
+    top: 100px;
+    left: 80px;
 }
 
 .testimonial .pic img {
-    width: 250px;
-    height: 300px;
+    width: 100%;
+    height: auto;
 }
 
 .testimonial .description {
@@ -13169,6 +13205,28 @@ textarea.form-control {
 @media only screen and (max-width: 990px) {
     .testimonial {
         padding: 80px 0 80px 265px;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .testimonial {
+        padding: 0;
+        border: none;
+    }
+    .testimonial:before,
+    .testimonial:after {
+        border: none;
+    }
+    .testimonial .pic {
+        position: relative;
+        top: 0;
+        left: 0;
+    }
+    .testimonial .description {
+        margin-top: 15px;
+    }
+    .testimonial .description:before {
+        content: "";
     }
 }
 
