@@ -3727,6 +3727,11 @@ ul {
     color: #555 !important;
 }
 
+.box1 {
+    height: 180px;
+    /* border: 1px purple solid; */
+}
+
 .innerHeading {
     background: url(../images/service_tbg.jpg) no-repeat center;
     background-size: cover !important;

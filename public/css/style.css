@@ -13457,3 +13457,27 @@ h6 {
         left: 100%;
     }
 }
+
+@media only screen and (max-width: 990px) {
+    .foot-card-t1 {
+        font-size: 14px;
+    }
+    .foot-card-t2 {
+        font-size: 11px;
+    }
+    .btn-custom-2 {
+        font-size: 10px;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .foot-card-t1 {
+        font-size: 11px;
+    }
+    .foot-card-t2 {
+        font-size: 8px;
+    }
+    .btn-custom-2 {
+        font-size: 6px;
+    }
+}
