@@ -11,7 +11,7 @@ body {
     font-size: 16px;
     line-height: normal;
     color: #000;
-    font-family: 'Roboto'
+    font-family: 'Montserrat', sans-serif;
 }
 
 a {
@@ -3507,40 +3507,6 @@ a.skype img {
     }
 }
 
-@import url('https://fonts.googleapis.com/css?family=Raleway:300,400,500,600,700,800,900&display=swap');
-@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap');
-@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed:300,400,700&display=swap');
-@font-face {
-    font-family: 'helioscond';
-    src: url('https://www.flexsin.com/css/helioscond_bold-webfont.eot');
-    src: url('https://www.flexsin.com/css/helioscond_bold-webfont.eot?#iefix') format('embedded-opentype'), url('https://www.flexsin.com/css/helioscond_bold-webfont.woff2') format('woff2'), url('https://www.flexsin.com/css/helioscond_bold-webfont.woff') format('woff'), url('https://www.flexsin.com/css/helioscond_bold-webfont.ttf') format('truetype'), url('https://www.flexsin.com/css/helioscond_bold-webfont.svg#helioscond') format('svg');
-    font-weight: 700;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'helioscond';
-    src: url('https://www.flexsin.com/css/heliol-webfont.eot');
-    src: url('https://www.flexsin.com/css/heliol-webfont.eot?#iefix') format('embedded-opentype'), url('https://www.flexsin.com/css/heliol-webfont.woff2') format('woff2'), url('https://www.flexsin.com/css/heliol-webfont.woff') format('woff'), url('heliol-webfont.ttf') format('truetype'), url('https://www.flexsin.com/css/heliol-webfont.svg#helioscond') format('svg');
-    font-weight: 300;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'helioscond';
-    src: url('https://www.flexsin.com/css/he_cn-webfont.eot');
-    src: url('https://www.flexsin.com/css/he_cn-webfont.eot?#iefix') format('embedded-opentype'), url('https://www.flexsin.com/css/he_cn-webfont.woff') format('woff'), url('https://www.flexsin.com/css/he_cn-webfont.ttf') format('truetype'), url('https://www.flexsin.com/css/he_cn-webfont.svg#helioscond') format('svg');
-    font-weight: 400;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'breuertextbold';
-    src: url('breuertext-bold_0-webfont-webfont.woff2') format('woff2'), url('breuertext-bold_0-webfont-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-}
-
 * {
     margin: 0;
     padding: 0;
@@ -3549,7 +3515,7 @@ a.skype img {
 }
 
 body {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-size: 13px;
     line-height: normal;
     color: #3a3a3a;
@@ -3610,7 +3576,6 @@ textarea {
     font-size: 14px;
     color: #3a3a3a;
     vertical-align: middle;
-    font-family: 'Roboto', sans-serif;
     outline: none;
 }
 
@@ -3686,9 +3651,10 @@ ul {
     color: #555 !important;
 }
 
-.box1 {
+
+/* .box1 {
     height: 10 0px;
-}
+} */
 
 .innerHeading {
     background: url(../images/service_tbg.jpg) no-repeat center;
@@ -3788,7 +3754,6 @@ ul {
 .mainHd {
     color: #575757;
     font-size: 28px;
-    font-family: 'Roboto Condensed', sans-serif;
     font-weight: 700;
     padding-bottom: 10px;
 }
@@ -3839,7 +3804,6 @@ ul {
 .hireTab ul li a {
     color: #000000;
     font-size: 19px;
-    font-family: 'Roboto Condensed', sans-serif;
     font-weight: 700;
     position: relative;
     text-transform: uppercase;
@@ -3887,7 +3851,6 @@ ul {
 .hireLink li {
     float: left;
     width: 33.33%;
-    font-family: 'Roboto Condensed', sans-serif;
     font-weight: 700;
     padding: 25px 0;
 }
@@ -3948,7 +3911,6 @@ ul {
     font-size: 18px;
     font-weight: 300;
     line-height: 25px;
-    font-family: 'Roboto Condensed', sans-serif;
 }
 
 .trendingList {
@@ -3966,7 +3928,7 @@ ul {
     padding: 20px 5px;
     color: #575757;
     font-size: 19px;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 700;
     line-height: 20px;
 }
@@ -4047,7 +4009,7 @@ ul {
     padding: 10px 35px;
     font-size: 17px;
     color: #fff;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 700;
     text-transform: uppercase;
 }
@@ -4132,7 +4094,7 @@ footer .client-Left {
     font-size: 17px;
     color: #646464;
     font-weight: 300;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 a.loadBtn {
@@ -4143,7 +4105,7 @@ a.loadBtn {
     font-size: 17px;
     color: #fff;
     text-transform: uppercase;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 700;
 }
 
@@ -4160,7 +4122,7 @@ a.loadBtn:hover {
 .aboutBig {
     color: #010712;
     font-size: 23px;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 700;
     padding-bottom: 20px;
 }
@@ -4177,7 +4139,7 @@ a.loadBtn:hover {
 .subHd {
     color: #010712;
     font-size: 20px;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 700;
     text-transform: uppercase;
     padding-bottom: 10px;
@@ -4192,7 +4154,7 @@ a.loadBtn:hover {
     text-align: center;
     color: #646464;
     font-size: 17px;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 300;
 }
 
@@ -4302,7 +4264,7 @@ a.loadBtn:hover {
     text-align: center;
     color: #646464;
     font-size: 17px;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 300;
 }
 
@@ -4460,7 +4422,7 @@ a.loadBtn:hover {
     color: #fff;
     font-size: 17px;
     text-transform: uppercase;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 700;
     cursor: pointer;
 }
@@ -4473,7 +4435,7 @@ a.loadBtn:hover {
     color: #646464;
     font-size: 18px;
     font-weight: 300;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     width: 100%;
     background: #fff;
 }
@@ -4650,7 +4612,7 @@ a.loadBtn:hover {
     display: block;
     font-size: 45px;
     font-weight: 700;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     line-height: normal;
 }
 
@@ -4684,7 +4646,7 @@ a.loadBtn:hover {
     color: #010712;
     font-size: 23px;
     font-weight: 700;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     padding-bottom: 10px;
 }
 
@@ -4710,7 +4672,7 @@ a.loadBtn:hover {
     color: #010712;
     font-size: 19px;
     font-weight: 700;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     padding-bottom: 5px;
 }
 
@@ -4810,7 +4772,7 @@ a.loadBtn:hover {
     color: #010712;
     font-size: 28px;
     text-transform: uppercase;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 700;
     line-height: 33px;
     padding: 0 0 20px 35px;
@@ -4850,7 +4812,7 @@ a.loadBtn:hover {
     color: #010712;
     font-size: 23px;
     font-weight: 700;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     padding-bottom: 10px;
 }
 
@@ -5137,7 +5099,7 @@ a.loadBtn:hover {
 .contactPopup .rgt {
     float: left;
     width: 55%;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .contactPopup .hd {
@@ -5219,7 +5181,7 @@ a.loadBtn:hover {
     color: #010712;
     font-size: 19px;
     font-weight: 700;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     border-right: 1px solid #c1c1c1;
     padding: 0 20px 0 65px;
     position: relative;
@@ -5251,7 +5213,7 @@ a.loadBtn:hover {
     color: #000;
     font-size: 17px;
     font-weight: 700;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     position: relative;
 }
 
@@ -5293,7 +5255,7 @@ a.loadBtn:hover {
     color: #646464;
     font-size: 15px;
     font-weight: 300;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     padding: 5px 0;
 }
 
@@ -5315,7 +5277,7 @@ a.loadBtn:hover {
     color: #1f1f1f;
     font-size: 23px;
     font-weight: 700;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .pfTab {
@@ -5423,7 +5385,7 @@ a.searchLink {
     cursor: pointer;
     background: url(../images/black_arrow.png) no-repeat 10px 14px;
     font-size: 14px;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .searchPopup ul li:hover {
@@ -5636,7 +5598,7 @@ a.searchLink {
     width: auto;
     height: auto;
     font-size: 17px;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 700;
     line-height: normal;
     padding: 7px 35px;
@@ -5649,7 +5611,7 @@ a.searchLink {
     color: #010712;
     font-size: 23px;
     font-weight: 700;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     padding-bottom: 40px;
 }
 
@@ -5665,7 +5627,7 @@ a.searchLink {
     color: #454951;
     font-size: 19px;
     font-weight: 700;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     display: inline-block;
 }
 
@@ -5808,7 +5770,7 @@ a.searchLink {
 .solutionTab ul li a {
     color: #000000;
     font-size: 19px;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 700;
     position: relative;
     text-transform: uppercase;
@@ -5859,7 +5821,7 @@ a.searchLink {
     font-size: 18px;
     font-weight: 300;
     line-height: 25px;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     padding-bottom: 25px;
 }
 
@@ -5874,7 +5836,7 @@ a.searchLink {
     display: block;
     text-transform: uppercase;
     padding-bottom: 10px;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .checkTxt {
@@ -6001,7 +5963,7 @@ a.moreBtn {
     background: #e84325;
     border-radius: 4px;
     font-size: 17px;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 700;
     margin-top: 10px;
     color: #fff;
@@ -6033,7 +5995,7 @@ a.itLinks {
     color: #e14a25;
     font-size: 27px;
     text-transform: uppercase;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 700;
     border: 1px solid #e8e8e8;
     height: 65px;
@@ -6087,7 +6049,7 @@ a.itLinks .img {
 
 .adsLIst li h2 {
     font-size: 19px;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 700;
     padding-bottom: 10px;
     color: #232832;
@@ -6189,7 +6151,7 @@ a.itLinks .img {
 .expertiseSlider .item a {
     color: #575757;
     font-size: 18px;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .expertiseSlider .item a span {
@@ -6377,7 +6339,7 @@ a.itLinks .img {
 .hexagonWht .hd {
     color: #080507;
     font-size: 45px;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 700;
     text-transform: uppercase;
     text-align: center;
@@ -6392,7 +6354,7 @@ a.itLinks .img {
 .cycleCon .textBox {
     position: absolute;
     width: 290px;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .cycleCon .textBox .line {
@@ -6657,7 +6619,7 @@ a.itLinks .img {
     color: #646464;
     font-size: 23px;
     text-transform: uppercase;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     margin-bottom: 50px;
     padding-left: 84px;
 }
@@ -6812,7 +6774,7 @@ a.itLinks .img {
     display: block;
     font-size: 23px;
     padding-bottom: 5px;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     text-transform: uppercase;
     color: #232832;
 }
@@ -6927,7 +6889,7 @@ a.itLinks .img {
     float: left;
     width: 25%;
     padding: 40px 10px;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .expertiseLinks.half {
@@ -6992,7 +6954,7 @@ a.itLinks .img {
     font-size: 19px;
     font-weight: 700;
     padding: 15px 0;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .serviceBg {
@@ -7050,7 +7012,7 @@ a.itLinks .img {
 .videoLink li {
     padding-bottom: 10px;
     font-size: 21px;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 700;
 }
 
@@ -7186,7 +7148,7 @@ a.itLinks .img {
     margin-bottom: 60px;
     color: #656565;
     font-size: 18px;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .customerRating .hd {
@@ -7231,7 +7193,7 @@ a.itLinks .img {
     display: block;
     color: #232832;
     font-size: 23px;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 700;
     text-transform: uppercase;
     line-height: normal;
@@ -7267,7 +7229,7 @@ a.itLinks .img {
     color: #fff;
     font-size: 26px;
     text-transform: uppercase;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 700;
 }
 
@@ -7317,7 +7279,7 @@ a.itLinks .img {
     color: #232832;
     font-size: 23px;
     text-transform: uppercase;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 700;
 }
 
@@ -7336,7 +7298,7 @@ a.itLinks .img {
     width: 50%;
     color: #646464;
     font-size: 19px;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     padding: 6px 0 6px 10px;
     position: relative;
     text-transform: uppercase;
@@ -7396,7 +7358,7 @@ a.itLinks .img {
     color: #575757;
     font-size: 28px;
     display: block;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 700;
     padding-bottom: 10px;
 }
@@ -7405,7 +7367,7 @@ a.itLinks .img {
     color: #646464;
     font-size: 19px;
     font-weight: 300;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     line-height: 33px;
 }
 
@@ -7447,7 +7409,7 @@ a.itLinks .img {
     color: #e14a25;
     font-size: 68px;
     font-weight: 700;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .statsList li:nth-child(3),
@@ -7570,7 +7532,7 @@ a.itLinks .img {
     background: #f2f2f2;
     padding: 12px 190px 12px 20px;
     font-size: 21px;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     color: #000;
     position: relative;
 }
@@ -7604,7 +7566,7 @@ a.itLinks .img {
     padding: 20px;
     color: #646464;
     font-size: 16px;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 300;
     line-height: 21px;
 }
@@ -7649,7 +7611,7 @@ a.moreLink:hover {
 .careerTop {
     margin-bottom: 20px;
     position: relative;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     color: #fff;
 }
 
@@ -7705,7 +7667,7 @@ a.moreLink:hover {
     -o-box-shadow: px 3px 5px rgba(0, 0, 0, .1);
     -webkit-box-shadow: px 3px 5px rgba(0, 0, 0, .1);
     box-shadow: px 3px 5px rgba(0, 0, 0, .1);
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     background: #f8f8f8;
 }
 
@@ -7791,7 +7753,7 @@ a.moreLink:hover {
 .threeColList li .hd {
     color: #232832;
     font-size: 25px;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     text-transform: uppercase;
     padding-bottom: 5px;
 }
@@ -7812,7 +7774,7 @@ a.moreLink:hover {
 
 .expertiseCon {
     padding: 40px 0 0 0;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .expertiseTxt {
@@ -7914,7 +7876,7 @@ a.moreLink:hover {
     width: 48%;
     margin: 20px 4% 0 0;
     font-size: 17px;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     word-break: break-word;
 }
 
@@ -8097,7 +8059,7 @@ a.moreLink:hover {
 .whySlider .item .content {
     border: 1px solid #d8d8d8;
     padding: 25px;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     margin: 0 1px;
 }
 
@@ -8171,7 +8133,7 @@ a.moreLink:hover {
 .pfDetHd {
     color: #010712;
     font-size: 23px;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 700;
     padding-bottom: 20px;
 }
@@ -8203,7 +8165,7 @@ a.moreLink:hover {
     border-bottom: 1px solid #d6d7d9;
     padding-bottom: 10px;
     margin-bottom: 10px;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .detInfoBox .hd {
@@ -8302,7 +8264,7 @@ a.moreLink:hover {
     color: #1e4288;
     font-size: 30px;
     text-transform: uppercase;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     border: none;
     padding: 5px;
     text-align: center;
@@ -8402,7 +8364,7 @@ a.moreLink:hover {
     display: table-cell;
     vertical-align: middle;
     text-align: center;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     color: #fff;
 }
 
@@ -8453,7 +8415,7 @@ a.moreLink:hover {
     color: #646464;
     font-size: 21px;
     padding: 10px 0 0 0;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .detfeedback .name span {
@@ -8479,7 +8441,7 @@ a.moreLink:hover {
     color: #000;
     font-size: 18px;
     text-transform: uppercase;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     line-height: 30px;
     font-weight: 500;
 }
@@ -8526,7 +8488,7 @@ a.moreLink:hover {
     color: #646464;
     font-size: 18px;
     font-weight: 300;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     background: #fff;
     text-align: center;
 }
@@ -8543,7 +8505,7 @@ a.moreLink:hover {
     width: 40%;
     float: left;
     text-align: center;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .tableTab ul.double li {
@@ -8603,7 +8565,7 @@ a.moreLink:hover {
     color: #646464;
     font-size: 15px;
     font-weight: 300;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     margin-top: -5px;
 }
 
@@ -8669,7 +8631,7 @@ a.moreLink:hover {
     padding: 0 0 0 80px;
     color: #5c5c5c;
     font-size: 15px;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     border-bottom: 1px solid #d4d4d4;
     padding-bottom: 20px;
 }
@@ -8790,7 +8752,7 @@ a.moreLink:hover {
 .newsList ul li {
     border-top: 1px solid #dadada;
     padding: 20px 0;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .newsList ul li:first-child {
@@ -8914,7 +8876,7 @@ a.moreLink:hover {
     color: #1e4288;
     font-size: 30px;
     text-transform: uppercase;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     border: none;
     padding: 5px;
     text-align: center;
@@ -8986,7 +8948,7 @@ a.moreLink:hover {
     color: #1e4288;
     font-size: 22px;
     text-transform: uppercase;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     border: none;
     padding: 5px;
     text-align: center;
@@ -9054,7 +9016,7 @@ a.moreLink:hover {
 /* .fourColList li .hd {
     color: #23283;
     font-size: 20px;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     text-transform: uppercase;
     padding-bottom: 5px;
 } */
@@ -9089,7 +9051,7 @@ a.moreLink:hover {
 
 .dmList li h2 {
     font-size: 19px;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 700;
     padding-bottom: 5px;
     color: #232832;
@@ -9177,7 +9139,7 @@ a.moreLink:hover {
 .transformList li .hd {
     color: #232832;
     font-size: 21px;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 700;
     padding: 5px 0;
 }
@@ -9277,7 +9239,7 @@ a.moreLink:hover {
     color: #646464;
     font-size: 19px;
     text-transform: uppercase;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     position: relative;
 }
 
@@ -9319,7 +9281,7 @@ a.moreLink:hover {
 .seotfList>li .hd {
     color: #232832;
     font-size: 25px;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     text-transform: uppercase;
     padding-bottom: 10px;
 }
@@ -9418,7 +9380,7 @@ a.moreLink:hover {
     float: left;
     width: 48%;
     margin: 30px 4% 0 0;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     padding: 0 0 0 45px;
     position: relative;
 }
@@ -9489,7 +9451,7 @@ a.moreLink:hover {
 .planTextBox .hd {
     font-size: 23px;
     font-weight: 700;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     padding-bottom: 40px;
     display: block;
     text-transform: uppercase;
@@ -9505,7 +9467,7 @@ a.moreLink:hover {
     font-size: 17px;
     color: #fff;
     text-transform: uppercase;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 700;
     margin: auto;
     line-height: 40px;
@@ -9525,7 +9487,7 @@ a.moreLink:hover {
     padding: 45px 0 0 32px;
     color: #575757;
     font-size: 23px;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     position: relative;
 }
 
@@ -9552,7 +9514,7 @@ a.moreLink:hover {
     color: #646464;
     font-size: 20px;
     text-transform: uppercase;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 700;
     border: 1px solid #efefef;
     -webkit-box-shadow: 4px 4px 5px rgba(178, 178, 178, .3);
@@ -9776,7 +9738,7 @@ a.moreLink:hover {
     text-align: center;
     color: #575757;
     font-size: 19px;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .mobileExpertise li img {
@@ -9800,7 +9762,7 @@ a.moreLink:hover {
     text-align: center;
     color: #646464;
     font-size: 18px;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     text-transform: uppercase;
     line-height: 20px;
     padding: 0 10px 20px 10px;
@@ -9825,7 +9787,7 @@ a.moreLink:hover {
     text-align: center;
     color: #232832;
     font-size: 19px;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 700;
     border: 1px solid #efefef;
     background: #fff;
@@ -9855,7 +9817,7 @@ a.moreLink:hover {
     width: 16.66%;
     position: relative;
     text-align: center;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     padding: 100px 0 0 0;
     color: #646464;
     font-size: 19px;
@@ -10019,7 +9981,7 @@ a.moreLink:hover {
     border-right: 1px solid #d6d6d6;
     padding: 10px 20px;
     text-align: center;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .platformList li:last-child {
@@ -10047,7 +10009,7 @@ a.moreLink:hover {
     margin: 20px 0;
     color: #575757;
     font-size: 21px;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     padding: 0 10px 0 70px;
     position: relative;
     display: table;
@@ -10130,7 +10092,7 @@ a.moreLink:hover {
     width: 49%;
     margin: 0 2% 20px 0;
     text-align: center;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     border: 1px solid #efefef;
     background: #fff;
     -webkit-box-shadow: 4px 4px 5px rgba(178, 178, 178, .3);
@@ -10286,7 +10248,7 @@ a.moreLink:hover {
 .dbTxtSlider {
     color: #575757;
     font-size: 21px;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     padding: 0 0 0 75px;
     position: relative;
 }
@@ -10313,7 +10275,7 @@ a.moreLink:hover {
     margin-right: 5%;
     padding: 10px 0;
     text-align: center;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .mobAppList li:last-child {
@@ -10361,7 +10323,7 @@ a.moreLink:hover {
     width: 46%;
     float: left;
     margin: 25px 8% 0 0;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .bpaFeaturesList li:nth-child(2n) {
@@ -10387,7 +10349,7 @@ a.moreLink:hover {
     color: #646464;
     font-size: 18px;
     text-transform: uppercase;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     height: 70px;
     display: inline-block;
     padding: 0 20px;
@@ -10423,7 +10385,7 @@ a.moreLink:hover {
     font-size: 19px;
     text-transform: uppercase;
     padding: 5px 0;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     text-transform: uppercase;
     font-weight: 700;
 }
@@ -10449,7 +10411,7 @@ a.moreLink:hover {
     font-size: 23px;
     text-transform: uppercase;
     padding: 10px 0;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     text-transform: uppercase;
     font-weight: 700;
 }
@@ -10495,7 +10457,7 @@ a.moreLink:hover {
     border-right: 1px solid #dcdcdc;
     padding: 0 35px;
     text-align: center;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .cloudPartnerList li span {
@@ -10517,7 +10479,7 @@ a.moreLink:hover {
     position: relative;
     color: #575757;
     font-size: 21px;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .wearableExpertise li span {
@@ -10559,7 +10521,7 @@ a.moreLink:hover {
     position: relative;
     width: 33.33%;
     font-size: 15px;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     line-height: 18px;
 }
 
@@ -10800,7 +10762,7 @@ ul.redBulletNew li a:hover {
     background: #22acce;
     text-align: center;
     position: relative;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .parkList li:last-child {
@@ -10848,7 +10810,7 @@ ul.redBulletNew li a:hover {
     background: #eceaea;
     font-size: 15px;
     color: #fff;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .partnerAdv li:nth-child(4n) {
@@ -10992,7 +10954,7 @@ ul.redBulletNew li a:hover {
 
 .bullet li {
     font-size: 19px;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     padding: 6px 0 6px 25px;
     position: relative;
 }
@@ -11040,7 +11002,7 @@ ul.redBulletNew li a:hover {
     margin: 40px 5% 0 0;
     padding: 10px 0;
     text-align: center;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .threeList li:nth-child(3n) {
@@ -11069,7 +11031,7 @@ ul.redBulletNew li a:hover {
     width: 30%;
     color: #575757;
     font-size: 23px;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     padding-left: 75px;
     position: relative;
     min-height: 60px;
@@ -11107,7 +11069,7 @@ ul.redBulletNew li a:hover {
     color: #646464;
     font-size: 21px;
     text-transform: uppercase;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     position: relative;
     padding: 0 0 0 40px;
 }
@@ -11141,7 +11103,7 @@ ul.redBulletNew li a:hover {
 
 .bulletHalf li {
     font-size: 18px;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     padding: 6px 0 6px 25px;
     position: relative;
     z-index: 100;
@@ -11164,7 +11126,7 @@ ul.redBulletNew li a:hover {
 
 .midHd {
     font-size: 26px;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     padding-bottom: 10px;
 }
 
@@ -11216,7 +11178,7 @@ ul.redBulletNew li a:hover {
     color: #646464;
     font-size: 19px;
     text-transform: uppercase;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     position: relative;
 }
 
@@ -11288,7 +11250,7 @@ ul.redBulletNew li a:hover {
 .engageAdvatge li {
     border: 1px solid #d8d8d8;
     padding: 20px;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     float: left;
     width: 24%;
     margin: 10px 1.33% 0 0;
@@ -11352,7 +11314,7 @@ ul.redBulletNew li a:hover {
     text-align: center;
     padding: 10px;
     font-size: 15px;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .planTable td:first-child {
@@ -11451,7 +11413,7 @@ ul.redBulletNew li a:hover {
     border: 1px solid #ccc;
     font-size: 25px;
     text-align: center;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     color: #274e99;
     font-weight: 700;
     position: relative;
@@ -11498,7 +11460,7 @@ ul.redBulletNew li a:hover {
 .goProtable li {
     padding: 6px 20% 6px 30px;
     font-size: 15px;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     border-bottom: 1px dashed #ccc;
     background: #fff;
     position: relative;
@@ -11567,7 +11529,7 @@ ul.redBulletNew li a:hover {
     padding: 20px;
     background: #f3fbff;
     border: 1px solid #99bacb;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .reasonBox ul li {
@@ -11650,7 +11612,7 @@ ul.redBulletNew li a:hover {
 .sitemapLinks li {
     float: left;
     width: 25%;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-size: 14px;
     padding: 3px 0 3px 12px;
     background: url(../images/black_arrow.png) no-repeat 0 8px;
@@ -11667,7 +11629,7 @@ ul.redBulletNew li a:hover {
 .sitemapHd {
     padding: 0 0 0 10px;
     font-size: 16px;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     padding-bottom: 5px;
     font-weight: 600;
     color: #e14a25;
@@ -11683,7 +11645,7 @@ ul.redBulletNew li a:hover {
     border: 10px solid #eee;
     background: #fff;
     padding-bottom: 50px;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .thnaksTxt {
@@ -11751,7 +11713,7 @@ ul.redBulletNew li a:hover {
 .invoiceNo {
     float: right;
     font-size: 16px;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     padding-bottom: 5px;
 }
 
@@ -11890,7 +11852,7 @@ ul.redBulletNew li a:hover {
     min-height: 40px;
     position: relative;
     font-size: 14px;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     line-height: 20px;
 }
 
@@ -11917,7 +11879,7 @@ ul.redBulletNew li a:hover {
     text-transform: none;
     color: #010712;
     font-weight: 700;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .afjList a {
@@ -11953,7 +11915,7 @@ ul.redBulletNew li a:hover {
     position: relative;
     text-transform: uppercase;
     text-align: center;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .eightColList li span {
@@ -11964,7 +11926,7 @@ ul.redBulletNew li a:hover {
 
 .viewPFLik {
     text-align: right;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     z-index: 100;
     font-size: 18px;
     font-weight: 700;
@@ -12082,7 +12044,7 @@ a.rgtRefreshLink {
 
 .pcCon span {
     font-size: 31px;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 700;
     text-transform: uppercase;
     line-height: normal;
@@ -12178,7 +12140,7 @@ a.showFullJob.active .lessBx {
     padding: 5px 0 5px 25px;
     position: relative;
     width: 50%;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 300;
 }
 
@@ -12196,7 +12158,7 @@ a.showFullJob.active .lessBx {
     text-align: center;
     color: #575757;
     font-size: 19px;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .mobileExpertiseSlider .item img {
@@ -12393,7 +12355,7 @@ a.showFullJob.active .lessBx {
     color: #232832;
     font-size: 20px;
     font-weight: 700;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     padding-bottom: 10px;
     text-transform: uppercase;
     line-height: 22px;
@@ -12423,7 +12385,7 @@ a.showFullJob.active .lessBx {
     float: left;
     font-size: 19px;
     font-weight: 700;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .testingPlList li:last-child {
@@ -12457,7 +12419,7 @@ a.showFullJob.active .lessBx {
     display: block;
     font-size: 23px;
     padding-bottom: 5px;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     text-transform: uppercase;
     color: #232832;
 }
@@ -12664,7 +12626,7 @@ ul.detList li:before {
     color: #010712;
     font-size: 19px;
     font-weight: 700;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     padding-bottom: 15px;
 }
 
@@ -12820,7 +12782,7 @@ ul.detList li:before {
     width: 33.33%;
     background: #f2f2f2;
     font-size: 20px;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     text-align: center;
     border-right: 2px solid #d1d1d1;
 }
@@ -12876,7 +12838,7 @@ ul.detList li:before {
     border-right: 2px solid #ebecee;
     border-bottom: 2px solid #ebecee;
     padding: 30px;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .contactAddress li:last-child {
@@ -13008,7 +12970,7 @@ a.viewMap {
     display: block;
     font-size: 23px;
     padding-bottom: 5px;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     text-transform: uppercase;
     color: #232832;
 }
@@ -13033,7 +12995,7 @@ a.viewMap {
     float: left;
     width: 25%;
     padding: 10px;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .dteList li a {
@@ -13197,7 +13159,7 @@ a.viewMap {
 .solMidCon {
     width: 100%;
     position: relative;
-    font-family: "Roboto Condensed", sans-serif;
+    font-family: "Montserrat", sans-serif;
     margin-top: 10px;
 }
 
@@ -13517,7 +13479,7 @@ busSolLink>li>span:before {
     color: #fff;
     padding: 5px;
     text-align: center;
-    font-family: "Roboto Condensed", sans-serif;
+    font-family: "Montserrat", sans-serif;
     display: block;
 }
 
@@ -13621,7 +13583,7 @@ busSolLink>li>span:before {
     font-size: 23px;
     font-weight: 700;
     color: #fff;
-    font-family: "Roboto Condensed", sans-serif;
+    font-family: "Montserrat", sans-serif;
 }
 
 .iotBanner .lft h1 {
@@ -14144,7 +14106,7 @@ busSolLink>li>span:before {
 }
 
 .industrySlider .item {
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     border: 1px solid #efefef;
     background: #fff;
     -webkit-box-shadow: 4px 4px 5px rgba(178, 178, 178, .3);
@@ -14596,7 +14558,7 @@ busSolLink>li>span:before {
 .mainBigHd {
     color: #fff;
     font-size: 36px;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 700;
     padding-bottom: 10px;
 }
@@ -14869,7 +14831,7 @@ a.refreshBtn:hover {
     color: #000;
     font-size: 17px;
     padding: 12px 30px 12px 0;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 500;
     position: relative;
     cursor: pointer;
@@ -15050,7 +15012,7 @@ a.refreshBtn:hover {
     padding: 10px 0 10px 30px;
     position: relative;
     line-height: 26px;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .expBulletList li:last-child {
@@ -15096,7 +15058,7 @@ a.refreshBtn:hover {
     font-size: 23px;
     font-weight: 700;
     line-height: 27px;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .devopsBenLft {
@@ -15126,7 +15088,7 @@ a.refreshBtn:hover {
 .devopsBenList li {
     color: #fff;
     font-size: 19px;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     padding: 6px 0;
 }
 
@@ -15306,7 +15268,7 @@ a.refreshBtn:hover {
 .pfLeftMenu li {
     font-size: 17px;
     display: inline-block;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 300;
     padding: 5px 3px;
 }
@@ -15430,7 +15392,7 @@ a.refreshBtn:hover {
     cursor: pointer;
     color: #a3a3a3;
     text-transform: uppercase;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-size: 16px;
     padding-left: 15px;
 }
@@ -15450,7 +15412,7 @@ a.refreshBtn:hover {
     width: 50%;
     padding: 10px;
     height: auto !important;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .newPflist li>div {
@@ -15736,7 +15698,7 @@ a.refreshBtn:hover {
     padding: 30px 40px;
     color: #fff;
     font-size: 38px;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .detStats li>div span {
@@ -16190,7 +16152,7 @@ a.refreshBtn:hover {
     font-size: 30px;
     line-height: normal;
     padding-bottom: 15px;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 500;
 }
 
@@ -16254,7 +16216,7 @@ a.refreshBtn:hover {
 
 .pfFront .item .hd {
     padding: 0 0 10px 0;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-size: 31px;
     font-weight: 500;
     overflow: hidden;
@@ -16275,7 +16237,7 @@ a.refreshBtn:hover {
     font-weight: 400;
     color: #000;
     line-height: 24px;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     padding-bottom: 70px;
 }
 
@@ -16483,7 +16445,7 @@ a.refreshBtn:hover {
 .mobMRgt ul li {
     font-size: 20px;
     color: #000;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     padding: 8px 0 8px 35px;
     background: url(../images/red_check.png) no-repeat 0 10px;
 }
@@ -16538,7 +16500,7 @@ a.refreshBtn:hover {
     margin-top: 22px;
     font-size: 22px;
     color: #000;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     position: relative;
     min-height: 62px;
     display: -webkit-flex;
@@ -16614,7 +16576,7 @@ a.refreshBtn:hover {
     display: block;
     padding-bottom: 5px;
     font-weight: 700;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     text-transform: uppercase;
     line-height: normal;
 }
@@ -16623,7 +16585,7 @@ a.refreshBtn:hover {
     position: relative;
     padding: 0;
     font-weight: 300;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     min-height: 110px;
 }
 
@@ -16702,7 +16664,7 @@ a.refreshBtn:hover {
     color: #fff;
     font-size: 31px;
     font-weight: 700;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     height: 120px;
     display: -webkit-flex;
     display: flex;
@@ -16788,7 +16750,7 @@ a.refreshBtn:hover {
     height: 80px;
     padding: 10px;
     font-weight: 700;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-size: 23px;
     display: -webkit-flex;
     display: flex;
@@ -16866,7 +16828,7 @@ a.refreshBtn:hover {
     margin-bottom: 20px;
     font-size: 19px;
     color: #646464;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     position: relative;
     min-height: 51px;
     display: -webkit-flex;
@@ -16941,7 +16903,7 @@ a.refreshBtn:hover {
     display: block;
     font-size: 25px;
     text-transform: uppercase;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 500;
     padding-bottom: 5px;
 }
@@ -17014,7 +16976,7 @@ a.refreshBtn:hover {
     font-size: 24px;
     line-height: normal;
     color: #000;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 700;
     padding-bottom: 10px;
 }
@@ -17222,7 +17184,7 @@ a.refreshBtn:hover {
     padding-bottom: 10px;
     font-weight: 700;
     font-size: 22px;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .industryLink {
@@ -17246,7 +17208,7 @@ a.refreshBtn:hover {
     text-align: center;
     color: #575757;
     font-size: 20px;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     box-shadow: 0 5px 10px rgba(0, 0, 0, .1);
 }
 
@@ -17275,7 +17237,7 @@ a.refreshBtn:hover {
     padding: 10px 0;
     font-weight: 700;
     font-size: 24px;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .newsMainHd {
@@ -17564,7 +17526,7 @@ a.loadMore .inner {
     text-transform: uppercase;
     position: relative;
     z-index: 10;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     padding: 0 20px;
 }
 
@@ -18288,7 +18250,7 @@ a.loadMore.tm:before {
     display: block;
     font-size: 30px;
     font-weight: 700;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     line-height: normal;
     padding-bottom: 10px;
 }
@@ -18323,7 +18285,7 @@ a.loadMore.tm:before {
     display: block;
     font-size: 30px;
     font-weight: 700;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     line-height: normal;
     padding-bottom: 10px;
 }
@@ -18345,7 +18307,7 @@ a.loadMore.tm:before {
     display: block;
     font-size: 30px;
     font-weight: 700;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     line-height: normal;
     padding-bottom: 10px;
 }
@@ -18533,7 +18495,7 @@ a.reqBtn:hover {
     font-size: 15px;
     font-weight: 700;
     border-radius: 2px;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .reqBoxNew a:hover {
@@ -19950,7 +19912,7 @@ a.reqBtn:hover {
     width: 600px;
     padding: 25px 80px 25px 0;
     text-align: center;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .solutionBox {
@@ -19988,7 +19950,7 @@ a.reqBtn:hover {
     width: 600px;
     padding: 25px 0 25px 80px;
     text-align: center;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .isHd {
@@ -20707,7 +20669,7 @@ a.reqBtn:hover {
 .topServiceList li .hd {
     color: #fff;
     font-size: 25px;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     text-transform: uppercase;
     padding-bottom: 5px;
 }
@@ -20752,7 +20714,7 @@ a.reqBtn:hover {
 .topServiceListWeb li .hd {
     color: #000;
     font-size: 25px;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     text-transform: uppercase;
     padding-bottom: 5px;
 }
@@ -21005,7 +20967,7 @@ a.reqBtn:hover {
 .topServiceListDT li .hd {
     color: #000;
     font-size: 25px;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     text-transform: uppercase;
     padding-bottom: 5px;
 }
