@@ -595,12 +595,12 @@ header.open .after {
 }
 
 .popupDDBox .servicePB .linkBox .subHd {
-    position: static;
+    /* position: static; */
     padding: 0
 }
 
 .popupDDBox .servicePB .linkBox .subHd img {
-    position: static;
+    /* position: static; */
     vertical-align: middle;
     margin: 0 10px 4px 0
 }
@@ -2831,7 +2831,7 @@ a.skype img {
         right: 320px
     }
     .popupDDBox .linkBox .subHd {
-        position: static
+        /* position: static */
     }
     .popupDDBox .hd {
         font-size: 30px;
@@ -3054,7 +3054,7 @@ a.skype img {
         overflow: auto
     }
     .popupBot {
-        position: static
+        /* position: static */
     }
     .popupDDBox .hd {
         padding: 10px 55px 0 0
@@ -3728,8 +3728,7 @@ ul {
 }
 
 .box1 {
-    height: 180px;
-    /* border: 1px purple solid; */
+    height: 10 0px;
 }
 
 .innerHeading {
@@ -11599,7 +11598,7 @@ ul.redBulletNew li a:hover {
     margin: 0 5px;
     display: inline-block;
     vertical-align: middle;
-    position: static;
+    /* position: static; */
     width: auto;
 }
 
@@ -11894,7 +11893,7 @@ ul.redBulletNew li a:hover {
 .contactSlider .contactPopup {
     width: 100%;
     border-radius: 0;
-    position: static;
+    /* position: static; */
     -moz-box-shadow: none;
     -o-box-shadow: none;
     -webkit-box-shadow: none;
@@ -21914,17 +21913,6 @@ a.seeAllToken.active span:after {
     overflow: hidden;
 }
 
-.pfDetTopTxt .rgt:before {
-    content: '';
-    background: #E14A25;
-    width: 70%;
-    height: 100%;
-    position: absolute;
-    right: -30%;
-    top: 0;
-    border-radius: 20%;
-}
-
 .pfDetTopTxt .rgt .img {
     background-size: cover !important;
     height: 300px;
@@ -22815,7 +22803,7 @@ a.seeAllToken.active span:after {
         top: -5px;
     }
     .aiHIW li .text {
-        position: static;
+        /* position: static; */
         border-left: none;
         padding: 15px 0 0 0;
         width: 100%;
@@ -22839,14 +22827,14 @@ a.seeAllToken.active span:after {
         width: 100%;
         height: auto;
         border: none;
-        position: static;
+        /* position: static; */
     }
     .aiHIW li:nth-child(5) .smllRoundBox {
         width: 100%;
         height: 50px;
         background: #19bec8;
         border: none;
-        position: static;
+        /* position: static; */
         border-radius: 0;
         padding: 8px 15px;
         font-weight: 400;
@@ -22915,7 +22903,7 @@ a.seeAllToken.active span:after {
     }
     .devopsExRgt .text {
         float: none;
-        position: static;
+        /* position: static; */
         width: 100%;
         padding: 15px;
         font-size: 19px;
