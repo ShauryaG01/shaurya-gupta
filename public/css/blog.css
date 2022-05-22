@@ -1,38 +1,3 @@
-@font-face {
-    font-family: 'Graphik';
-    src: url('fonts/Graphik-Regular.woff2') format('woff2'), url('fonts/Graphik-Regular.woff') format('woff');
-    font-weight: 400;
-    font-style: normal
-}
-
-@font-face {
-    font-family: 'Graphik';
-    src: url('fonts/Graphik-Medium.woff2') format('woff2'), url('fonts/Graphik-Medium.woff') format('woff');
-    font-weight: 500;
-    font-style: normal
-}
-
-@font-face {
-    font-family: 'Graphik';
-    src: url('fonts/Graphik-Semibold.woff2') format('woff2'), url('fonts/Graphik-Semibold.woff') format('woff');
-    font-weight: 600;
-    font-style: normal
-}
-
-@font-face {
-    font-family: 'Graphik';
-    src: url('fonts/Graphik-Bold.woff2') format('woff2'), url('fonts/Graphik-Bold.woff') format('woff');
-    font-weight: 700;
-    font-style: normal
-}
-
-@font-face {
-    font-family: 'Graphik';
-    src: url('fonts/Graphik-Black.woff2') format('woff2'), url('fonts/Graphik-Black.woff') format('woff');
-    font-weight: 900;
-    font-style: normal
-}
-
 * {
     margin: 0;
     padding: 0;
@@ -46,7 +11,7 @@ body {
     font-size: 16px;
     line-height: normal;
     color: #000;
-    font-family: 'Graphik'
+    font-family: 'Roboto'
 }
 
 a {
@@ -70,7 +35,6 @@ select {
     font-size: 14px;
     color: #000;
     vertical-align: middle;
-    font-family: 'Graphik';
     outline: 0;
     resize: none
 }
@@ -86,7 +50,6 @@ button {
     -moz-appearance: none;
     -webkit-appearance: none;
     appearance: none;
-    font-family: 'Graphik'
 }
 
 .transition {
@@ -181,7 +144,6 @@ header {
     z-index: 1000;
     left: 0;
     top: 0;
-    font-family: 'Graphik'
 }
 
 header:after {
@@ -1227,7 +1189,6 @@ header.open .menu ul li a.readMoreBtn {
 .bannerBox {
     max-width: 1700px;
     color: #fff;
-    font-family: 'Graphik'
 }
 
 .bannerHd {
@@ -2002,7 +1963,6 @@ a.newsBtn {
     text-align: center;
     position: relative;
     z-index: 101;
-    font-family: 'Graphik'
 }
 
 .letsTalk:after {
@@ -2040,7 +2000,6 @@ a.newsBtn {
 footer {
     position: relative;
     overflow: hidden;
-    font-family: 'Graphik'
 }
 
 footer:after {
@@ -3738,7 +3697,6 @@ ul {
     text-align: center;
     padding: 180px 0 40px 0;
     font-size: 20px;
-    font-family: 'Graphik';
     font-weight: 400;
     min-height: 512px;
     /*display: -webkit-flex; display: flex; -webkit-flex-wrap: wrap; flex-wrap: wrap; -webkit-align-items: center; align-items: center;*/
@@ -3750,7 +3708,6 @@ ul {
     z-index: 10;
     padding-bottom: 70px;
     font-size: 60px;
-    font-family: 'Graphik';
     font-weight: 700;
     text-transform: uppercase;
     line-height: normal;
@@ -4641,7 +4598,6 @@ a.loadBtn:hover {
     text-align: center;
     font-weight: 400;
     font-size: 15px;
-    font-family: 'Graphik';
     line-height: 24px;
 }
 
@@ -15653,7 +15609,6 @@ a.refreshBtn:hover {
     text-align: left;
     position: relative;
     margin-top: 15px;
-    font-family: 'Graphik';
 }
 
 .banExp:before {
@@ -15704,7 +15659,6 @@ a.refreshBtn:hover {
     text-align: left;
     position: relative;
     margin-top: 15px;
-    font-family: 'Graphik';
 }
 
 .banInd:before {
@@ -16021,7 +15975,6 @@ a.refreshBtn:hover {
     font-size: 20px;
     text-align: center;
     line-height: 42px;
-    font-family: 'Graphik';
     font-weight: 500;
 }
 
@@ -18608,7 +18561,6 @@ a.reqBtn:hover {
 
 .storySlider .item {
     padding: 0 15px 20px 15px;
-    font-family: 'Graphik';
 }
 
 .storySlider .item .img {
@@ -18784,7 +18736,6 @@ a.reqBtn:hover {
     font-weight: 500;
     color: #000;
     padding-bottom: 40px;
-    font-family: 'Graphik';
 }
 
 .leadHd span {
@@ -18795,7 +18746,6 @@ a.reqBtn:hover {
 .leadList {
     margin: -20px -15px;
     padding-bottom: 50px;
-    font-family: 'Graphik';
     justify-content: center;
 }
 
@@ -18855,10 +18805,6 @@ a.reqBtn:hover {
     display: block;
     font-size: 18px;
     padding-bottom: 5px;
-}
-
-.graphikFont {
-    font-family: 'Graphik' !important;
 }
 
 .serviceTopC {
@@ -19046,7 +18992,6 @@ a.reqBtn:hover {
     margin-top: 30px;
     font-size: 20px;
     color: rgba(255, 255, 255, .8);
-    font-family: 'Graphik';
     line-height: 28px;
     padding: 40px;
 }
@@ -19117,7 +19062,6 @@ a.reqBtn:hover {
     color: #000;
     font-weight: 400;
     padding-bottom: 15px;
-    font-family: 'Graphik';
 }
 
 .bsTxt {
@@ -19231,7 +19175,6 @@ a.reqBtn:hover {
     background: #d6d5d0;
     background-size: cover !important;
     margin-top: 20px;
-    font-family: 'Graphik';
 }
 
 .partnerShow li .lft {
@@ -19265,7 +19208,6 @@ a.reqBtn:hover {
     background: #34baff;
     margin-top: 20px;
     padding: 20px;
-    font-family: 'Graphik';
 }
 
 .accreditationsShow li .lft {
@@ -19309,7 +19251,6 @@ a.reqBtn:hover {
 .listIndustry li {
     width: 33.33%;
     padding: 15px;
-    font-family: 'Graphik';
 }
 
 .listIndustry li>a {
@@ -19447,7 +19388,6 @@ a.reqBtn:hover {
 .pfListNew li {
     width: 50%;
     padding: 15px;
-    font-family: 'Graphik';
 }
 
 .pfListNew li:nth-child(3n) {
@@ -21102,7 +21042,6 @@ a.reqBtn:hover {
     color: #000;
     padding-bottom: 40px;
     position: relative;
-    font-family: 'Graphik';
     position: relative;
 }
 
@@ -21125,7 +21064,6 @@ a.reqBtn:hover {
     width: 33.33%;
     padding: 0 40px 90px 40px;
     position: relative;
-    font-family: 'Graphik';
 }
 
 .teamListNew li .inner {
