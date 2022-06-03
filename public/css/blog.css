@@ -15605,7 +15605,7 @@ a.refreshBtn:hover {
     padding-bottom: 0;
     font-weight: 400;
     text-transform: uppercase;
-    color: #7fba00;
+    color: #3e64ff;
     line-height: normal;
 }
 
@@ -15641,7 +15641,7 @@ a.refreshBtn:hover {
     padding-bottom: 0;
     font-weight: 400;
     text-transform: uppercase;
-    color: #7fba00;
+    color: #3e64ff;
     line-height: normal;
 }
 
@@ -15730,7 +15730,7 @@ a.refreshBtn:hover {
 }
 
 .pfDetContent.businessNeedsBg {
-    background: #0C95EC;
+    background: #3e64ff;
     color: #fff;
     padding: 30px;
 }
@@ -15793,7 +15793,7 @@ a.refreshBtn:hover {
 .pfDetContent ul li:before {
     content: 'check_circle';
     font-family: 'Material Icons';
-    color: #324F8D;
+    color: #3e64ff;
     font-size: 22px;
     position: absolute;
     left: 0;
@@ -21928,7 +21928,7 @@ a.seeAllToken.active span:after {
 }
 
 .businessOutcome .inner {
-    background: #DF9927;
+    background: #5427d4;
     padding: 45px 25px 25px 25px;
     border-right: 2px solid #fff;
     height: 100%;
@@ -21973,7 +21973,7 @@ a.seeAllToken.active span:after {
 }
 
 .clientSpeak .inner {
-    background: #DF9927;
+    background: #5427d4;
     padding: 45px 25px 25px 25px;
     height: 100%;
 }
