@@ -12112,7 +12112,7 @@ h5,
 
 .project:hover .overlay,
 .project:focus .overlay {
-    opacity: 0.9;
+    opacity: 0.5;
 }
 
 .project:hover .text,
