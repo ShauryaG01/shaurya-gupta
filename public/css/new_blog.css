@@ -11045,12 +11045,12 @@ input[type=number] {
 }
 
 .btn-trt-primary {
-    background: #4194e6;
-    color: #fff !important
+    background: #5370fe;
+    color: #5370fe 
 }
 
 .btn-trt-primary:hover {
-    color: #fff
+    color: #5370fe
 }
 
 .bg-gradient {
