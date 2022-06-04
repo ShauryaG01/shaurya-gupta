@@ -499,3 +499,8 @@ $(document).ready(function() {
         autoPlay: false
     });
 });
+
+const scheduleCall = () => {
+
+    window.open(`https://calendly.com/shaurya-gupta/upwork-introduction-call`);
+}
