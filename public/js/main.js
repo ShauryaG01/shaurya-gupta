@@ -502,5 +502,5 @@ $(document).ready(function() {
 
 const scheduleCall = () => {
 
-    window.open(`https://calendly.com/shaurya-gupta/upwork-introduction-call`);
+    window.open(`https://calendly.com/shaurya-gupta/introduction-call-with-shaurya?month=2022-06`);
 }
