@@ -13105,10 +13105,10 @@ textarea.form-control {
 }
 
 .testimonial {
-    /* border-left: 3px solid #007bff; */
+    border-left: 3px solid #007bff;
     padding: 100px 0 100px 275px;
     position: relative;
-    border: 3px solid #007bff;
+    /* border: 4px inset #007bff; */
     /* border-radius: 4%; */
 }
 
