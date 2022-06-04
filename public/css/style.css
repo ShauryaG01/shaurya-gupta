@@ -13105,9 +13105,11 @@ textarea.form-control {
 }
 
 .testimonial {
-    border-left: 3px solid #007bff;
+    /* border-left: 3px solid #007bff; */
     padding: 100px 0 100px 275px;
-    position: relative
+    position: relative;
+    border: 3px solid #007bff;
+    /* border-radius: 4%; */
 }
 
 .testimonial:before,
@@ -13115,26 +13117,27 @@ textarea.form-control {
     content: "";
     width: 320px;
     height: 55px;
-    border-right: 3px solid #007bff;
+    /* border-right: 3px solid #007bff; */
     position: absolute;
     left: 0;
 }
 
 .testimonial:before {
-    border-top: 3px solid #007bff;
+    /* border-top: 3px solid #007bff; */
     top: 0;
 }
 
 .testimonial:after {
-    border-bottom: 3px solid #007bff;
+    /* border-bottom: 3px solid #007bff; */
     bottom: 0;
 }
 
 .testimonial .pic {
+    /* border: 1px red solid; */
     max-width: 170px;
     max-height: 170px;
     position: absolute;
-    top: 100px;
+    /* top: 100px; */
     left: 70px;
 }
 
